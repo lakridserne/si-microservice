@@ -11,7 +11,7 @@ namespace MicroService.Models
         // Properties
         private enum GeographicaLocation { DK, JP, US, DE };
         private enum Gender { Male, Female, other };
-        private enum Age { Kids, Teens, Adult, Old };
+        private enum Age {Kids, Adult18, Adult26, Adult30, Adult40, Adult50, Old };
         private int NumberOFKids { get; set; }
         private int BookingEXperince { get; set; }
         private int SatisfactionWitHStaff { get; set; }
