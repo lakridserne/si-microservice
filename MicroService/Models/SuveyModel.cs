@@ -7,9 +7,17 @@ namespace MicroService.Models
 {
     public class SuveyModel
     {
-        public int ID { get; set; }
-        public string Title { get; set; }
 
+        // Properties
+        private enum GeographicaLocation { DK, JP, US, DE };
+        private enum Gender { Male, Female, other };
+        private enum Age { Kids, Teens, Adult, Old };
+        private int NumberOFKids { get; set; }
+        private int BookingEXperince { get; set; }
+        private int SatisfactionWitHStaff { get; set; }
+        private int SatisfactionWithFood { get; set; }
+        private int SatisfactionWithCleaning { get; set; }
+        private string OtherComments { get; set; }
 
     }
 }
