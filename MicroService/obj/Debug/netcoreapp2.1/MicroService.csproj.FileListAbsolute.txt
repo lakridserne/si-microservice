@@ -66,3 +66,9 @@ C:\Users\Gordon\Documents\GitHub\si-microservice\MicroService\obj\Debug\netcorea
 C:\Users\Gordon\Documents\GitHub\si-microservice\MicroService\obj\Debug\netcoreapp2.1\MicroService.dll
 C:\Users\Gordon\Documents\GitHub\si-microservice\MicroService\obj\Debug\netcoreapp2.1\MicroService.pdb
 C:\Users\Gordon\Documents\GitHub\si-microservice\MicroService\obj\Debug\netcoreapp2.1\MicroService.csproj.CopyComplete
+C:\Users\45422\Desktop\si-microservice\MicroService\obj\Debug\netcoreapp2.1\Razor\Controllers\Surveys\Create.g.cshtml.cs
+C:\Users\45422\Desktop\si-microservice\MicroService\obj\Debug\netcoreapp2.1\Razor\Controllers\Surveys\Delete.g.cshtml.cs
+C:\Users\45422\Desktop\si-microservice\MicroService\obj\Debug\netcoreapp2.1\Razor\Controllers\Surveys\Details.g.cshtml.cs
+C:\Users\45422\Desktop\si-microservice\MicroService\obj\Debug\netcoreapp2.1\Razor\Controllers\Surveys\Edit.g.cshtml.cs
+C:\Users\45422\Desktop\si-microservice\MicroService\obj\Debug\netcoreapp2.1\Razor\Controllers\Surveys\Index.g.cshtml.cs
+C:\Users\45422\Desktop\si-microservice\MicroService\obj\Debug\netcoreapp2.1\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs

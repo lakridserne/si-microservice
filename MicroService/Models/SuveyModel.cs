@@ -9,6 +9,7 @@ namespace MicroService.Models
     {
 
         // Properties
+        public int ID { get; set; }
         private enum GeographicaLocation { DK, JP, US, DE };
         private enum Gender { Male, Female, other };
         private enum Age {Kids, Adult18, Adult26, Adult30, Adult40, Adult50, Old };
