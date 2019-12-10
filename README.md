@@ -3,6 +3,9 @@ Our task was to create a microservice for a business with bookings so they can
 collect feedback from customers. We have therefore made a survey application
 as a REST API with the microservice architecture style.
 
+## Example instructions
+[b]Note[/b] These instructions are only an example. There are other ways to do the same.
+
 ## Questions
 We have made 10 predefined questions the customers are asked. The administrators
 can see some statistics regarding the answers from those. The questions are:
@@ -17,3 +20,10 @@ can see some statistics regarding the answers from those. The questions are:
 * How satisfied were you with the food? (1-10)
 * How satisfied were you with the cleaning? (1-10)
 * Any other comments? (text they can fill in)
+
+## Continous integration
+We used Azure DevOps to set up continous integration. It runs on
+https://suveyapp20191210122852.azurewebsites.net/
+
+## Docker
+We set up our system to run in a Docker container.
