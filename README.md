@@ -4,7 +4,7 @@ collect feedback from customers. We have therefore made a survey application
 as a REST API with the microservice architecture style.
 
 ## Example instructions
-*Note* These instructions are only an example. There are other ways to do the same.
+***Note*** These instructions are only an example. There are other ways to do the same.
 
 ## Questions
 We have made 10 predefined questions the customers are asked. The administrators
